@@ -19,7 +19,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello all! Let\'s explore some US bikeshare data!')
     while True:
        city = input('City to explore chicago, new york city or washington? \n> ').lower()
        if city in CITIES:
@@ -195,7 +195,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df, city)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart or quit? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
