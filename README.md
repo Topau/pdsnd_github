@@ -24,7 +24,7 @@ After you have the option to restart again or choosing a new city!
 Have fun!
 
 ### Files used
-used files out of a database:
+This data are used:
 
 chicago.csv
 new_york_city.csv
