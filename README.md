@@ -6,7 +6,7 @@ README.md created
 This program is made to explore the biksehare data which is stored in different csv files.
 
 ### Description
-To get the statistics you:
+To get the statistics and raw data please follow this points:
 
 -	start the program 
 -	choose a city 
@@ -24,7 +24,7 @@ After you have the option to restart again or choosing a new city!
 Have fun!
 
 ### Files used
-used files:
+used files out of a database:
 
 chicago.csv
 new_york_city.csv
