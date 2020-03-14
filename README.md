@@ -1,15 +1,34 @@
 ### Date created
-Include the date you created this project and README file.
+Bikeshare.py created
+README.md created 
 
-### Project Title
-Replace the Project Title
+### Explore the bikeshare data
+This program is made to explore the biksehare data which is stored in different csv files.
 
 ### Description
-Describe what your project is about and what it does
+To get the statistics you:
+
+-	start the program 
+-	choose a city 
+- 	filter the data
+
+
+After you can have a look at the raw data and statistics of:
+
+-	most frequent times of travel
+-	most popular stations and trip
+-	total and average trip duration
+-	...
+
+After you have the option to restart again or choosing a new city!
+Have fun!
 
 ### Files used
-Include the files used
+used files:
+
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thanks to Udacity for this top lerning program!
